@@ -2,9 +2,9 @@
   "name": "frontend-infra",
   "version": "0.0.1",
   "description": "Infrastructure for frontend project",
-  "main": "src/index.js",
+  "main": "dist/bundle.js",
   "scripts": {
-    "test": "echo \"Tests OK!\""
+    "test": "tsc -p ./src"
   },
   "repository": {
     "type": "git",

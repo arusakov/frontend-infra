@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "es6",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "jsx": "preserve",
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "outDir": "../srcjs",
+        "newLine": "LF"
+    },
+    "filesGlob": [
+        "../typings/tsd.d.ts",
+        "./**/*.+(ts|tsx)"
+    ],
+    "files": [
+        "./index.ts"
+    ],
+    "exclude": [],
+    "compileOnSave": true,
+    "buildOnSave": false,
+    "atom": {
+        "rewriteTsconfig": true
+    }
+}
