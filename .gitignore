@@ -1,0 +1,12 @@
+.idea
+node_modules
+srcjs
+
+coverage
+distdev
+dist
+packages
+
+npm-debug.log
+coverage.xml
+report.xml
