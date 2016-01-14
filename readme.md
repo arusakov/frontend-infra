@@ -5,6 +5,7 @@ Frontend infrastructure based on:
 * [Autoprefixer] (https://github.com/postcss/autoprefixer)
 * [Gulp] (http://gulpjs.com/)
 * [Webpack] (https://webpack.github.io/)
+* [JSHint] (http://eslint.org/)
 * [Karma] (https://karma-runner.github.io/)
 * [Jasmine] (http://jasmine.github.io/)
 * [Istanbul] (https://gotwarlost.github.io/istanbul/)
@@ -26,7 +27,7 @@ Get started
 
 Development
 ===========
-* gulp dev - start nginx and webpack in watch mode
+* gulp dev - start webpack in watch mode
 * gulp tsc:watch - only if IDE doesn't provide builtin watcher
 * gulp ci - run unit tests in CI (watch) mode
 * gulp coverage - for code coverage

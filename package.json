@@ -29,8 +29,11 @@
   },
   "homepage": "https://github.com/arusakov/frontend-infra#readme",
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "typescript": "^1.8.0-dev.20160113",
-    "webpack": "^1.12.11"
+    "gulp": "3.9.0",
+    "jasmine-core": "2.4.1",
+    "karma": "0.13.19",
+    "karma-jasmine": "0.3.6",
+    "typescript": "1.8.0-dev.20160113",
+    "webpack": "1.12.11"
   }
 }
