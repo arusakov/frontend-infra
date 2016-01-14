@@ -29,6 +29,11 @@
   },
   "homepage": "https://github.com/arusakov/frontend-infra#readme",
   "devDependencies": {
+    "babel-core": "6.4.0",
+    "babel-loader": "6.2.1",
+    "babel-polyfill": "6.3.14",
+    "babel-preset-es2015": "6.3.13",
+    "babel-preset-react": "6.3.13",
     "gulp": "3.9.0",
     "jasmine-core": "2.4.1",
     "karma": "0.13.19",
@@ -37,5 +42,9 @@
     "phantomjs": "1.9.19",
     "typescript": "1.8.0-dev.20160113",
     "webpack": "1.12.11"
+  },
+  "dependencies": {
+    "react": "0.14.6",
+    "react-dom": "0.14.6"
   }
 }
