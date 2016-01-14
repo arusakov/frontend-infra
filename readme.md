@@ -8,7 +8,7 @@ Frontend infrastructure based on:
 * [Karma] (https://karma-runner.github.io/)
 * [Jasmine] (http://jasmine.github.io/)
 * [Istanbul] (https://gotwarlost.github.io/istanbul/)
-* [Ispara] (https://github.com/douglasduteil/isparta)
+* [Isparta] (https://github.com/douglasduteil/isparta)
 
 Dependencies
 ============

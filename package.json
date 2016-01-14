@@ -1,0 +1,36 @@
+{
+  "name": "frontend-infra",
+  "version": "0.0.1",
+  "description": "Infrastructure for frontend project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arusakov/frontend-infra.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Babel",
+    "Sass",
+    "Autoprefixer",
+    "Gulp",
+    "Webpack",
+    "Karma",
+    "Jasmine",
+    "Istanbul",
+    "Isparta"
+  ],
+  "author": "Alexander Rusakov <a_s_rusakov@mail.ru> (https://github.com/arusakov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arusakov/frontend-infra/issues"
+  },
+  "homepage": "https://github.com/arusakov/frontend-infra#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "typescript": "^1.8.0-dev.20160113",
+    "webpack": "^1.12.11"
+  }
+}
