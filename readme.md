@@ -1,15 +1,16 @@
-Frontend infrastructure based on:
-* [TypeScript] (https://www.typescriptlang.org/)
-* [Babel] (https://babeljs.io/)
-* [Sass] (http://sass-lang.com/)
-* [Autoprefixer] (https://github.com/postcss/autoprefixer)
-* [Gulp] (http://gulpjs.com/)
-* [Webpack] (https://webpack.github.io/)
-* [JSHint] (http://eslint.org/)
-* [Karma] (https://karma-runner.github.io/)
-* [Jasmine] (http://jasmine.github.io/)
-* [Istanbul] (https://gotwarlost.github.io/istanbul/)
-* [Isparta] (https://github.com/douglasduteil/isparta)
+Frontend infrastructure [![Build Status](https://travis-ci.org/arusakov/frontend-infra.svg?branch=master)](https://travis-ci.org/arusakov/frontend-infra)
+-------------------------------------------------------
+* [TypeScript](https://www.typescriptlang.org/)
+* [Babel](https://babeljs.io/)
+* [Sass](http://sass-lang.com/)
+* [Autoprefixer](https://github.com/postcss/autoprefixer)
+* [Gulp](http://gulpjs.com/)
+* [Webpack](https://webpack.github.io/)
+* [JSHint](http://eslint.org/)
+* [Karma](https://karma-runner.github.io/)
+* [Jasmine](http://jasmine.github.io/)
+* [Istanbul](https://gotwarlost.github.io/istanbul/)
+* [Isparta](https://github.com/douglasduteil/isparta)
 
 Dependencies
 ============
