@@ -11,6 +11,9 @@ Frontend infrastructure [![Build Status](https://travis-ci.org/arusakov/frontend
 * [Jasmine](http://jasmine.github.io/)
 * [Istanbul](https://gotwarlost.github.io/istanbul/)
 * [Isparta](https://github.com/douglasduteil/isparta)
+* --------------------------
+* [Bootstrap](http://getbootstrap.com/)
+* [React](https://facebook.github.io/react/)
 
 Dependencies
 ============

@@ -16,7 +16,8 @@
         "./**/*.+(ts|tsx)"
     ],
     "files": [
-        "./index.ts"
+        "./index.ts",
+        "./typings.d.ts"
     ],
     "exclude": [],
     "compileOnSave": true,
