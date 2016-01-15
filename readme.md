@@ -27,7 +27,7 @@ Global npm packages
 
 Get started
 ===========
-* npm i
+* npm install && tsd install
 
 Development
 ===========
@@ -49,7 +49,3 @@ Unit test in Chrome
 * npm install -g karma-cli
 * npm install karma-chrome-launcher
 * karma start configs/karma.conf.js --singleRun false --browsers Chrome
-
-Production
-==========
-* ./build and ./test bash scripts in project root
