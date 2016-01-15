@@ -4,7 +4,8 @@
   "description": "Infrastructure for frontend project",
   "main": "dist/bundle.js",
   "scripts": {
-    "test": "tslint ./src/**/*.ts && tsc -p ./src && karma start ./configs/karma.conf.js"
+    "tsd": "tsd install",
+    "test": "tslint ./src/**/*.ts ./src/**/*.tsx && tsc -p ./src && karma start ./configs/karma.conf.js"
   },
   "repository": {
     "type": "git",
@@ -57,6 +58,7 @@
     "karma-sourcemap-loader": "0.3.7",
     "karma-webpack": "1.7.0",
     "phantomjs": "1.9.19",
+    "tsd": "^0.6.5",
     "tslint": "3.2.1",
     "typescript": "1.7.5",
     "webpack": "1.12.11"

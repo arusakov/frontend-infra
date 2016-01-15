@@ -5,17 +5,29 @@
             true,
             "check-space"
         ],
+        "curly": true,
+        "eofline": true,
         "indent": [
             true,
             "spaces"
         ],
+        "no-conditional-assignment": true,
+        "no-duplicate-key": true,
         "no-duplicate-variable": true,
         "no-eval": true,
+        "no-inferrable-types": true,
         "no-internal-module": true,
+        "no-require-imports": true,
+        "no-shadowed-variable": true,
+        "no-string-literal": true,
         "no-trailing-whitespace": true,
+        "no-use-before-declare": true,
         "no-var-keyword": true,
+        "object-literal-sort-keys": true,
         "one-line": [
             true,
+            "check-catch",
+            "check-else",
             "check-open-brace",
             "check-whitespace"
         ],
@@ -23,6 +35,7 @@
             true,
             "single"
         ],
+        "radix": true,
         "semicolon": true,
         "triple-equals": [
             true,
