@@ -5,7 +5,7 @@
   "main": "dist/bundle.js",
   "scripts": {
     "tsd": "tsd install",
-    "test": "tslint ./src/**/*.ts ./src/**/*.tsx && tsc -p ./src && karma start ./configs/karma.conf.js"
+    "test": "gulp default && karma start ./configs/karma.conf.js"
   },
   "repository": {
     "type": "git",

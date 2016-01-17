@@ -18,7 +18,8 @@ var del = require('del');
 var paths = require('./configs/paths');
 
 // build for production (web)
-gulp.task('default', ['webpack', 'css', 'test', 'tslint', 'html'], () => {
+// todo arusakov test task
+gulp.task('default', ['webpack', 'css', 'tslint', 'html'], () => {
   console.log('Build Web OK!');
 });
 
