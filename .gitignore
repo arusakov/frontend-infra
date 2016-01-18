@@ -6,7 +6,6 @@ coverage
 distdev
 dist
 packages
-typings
 
 npm-debug.log
 coverage.xml

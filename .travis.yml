@@ -1,8 +1,6 @@
 language: node_js
 node_js:
   - "4.1"
-before_script:
-  - npm run tsd
 env:
   - CXX=g++-4.8
 addons:

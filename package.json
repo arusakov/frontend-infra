@@ -4,7 +4,6 @@
   "description": "Infrastructure for frontend project",
   "main": "dist/bundle.js",
   "scripts": {
-    "tsd": "tsd install",
     "test": "gulp default && karma start ./configs/karma.conf.js"
   },
   "repository": {
