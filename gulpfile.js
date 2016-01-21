@@ -6,7 +6,7 @@ var gutil = require('gutil');
 var gAutoprefixer = require('gulp-autoprefixer');
 var gReplace = require('gulp-replace');
 var gTslint = require('gulp-tslint');
-var gMinifyCss = require('gulp-minify-css');
+var gCssnano = require('gulp-cssnano');
 var gRename = require('gulp-rename');
 var gSass = require('gulp-sass');
 var gSourcemaps = require('gulp-sourcemaps');
@@ -146,7 +146,7 @@ function createCssTask(dev) {
       }));
     if (!dev) {
       flow = flow
-        .pipe(gMinifyCss())
+        .pipe(gCssnano())
         .pipe(gRename('app.min.css'));
     }
     flow = flow
@@ -160,7 +160,7 @@ function createKarmaTask(config) {
   return (done) => {
     new KarmaServer(config, (exitCode) => {
       if (!config.autoWatch) {
-        done();
+        done(exitCode);
       }
     }).start();
   };
