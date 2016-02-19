@@ -62,7 +62,7 @@
     "karma-webpack": "1.7.0",
     "phantomjs-prebuilt": "2.1.4",
     "tsd": "0.6.5",
-    "tslint": "3.3.0",
+    "tslint": "3.4.0",
     "typescript": "1.7.5",
     "webpack": "1.12.13"
   }
