@@ -60,7 +60,7 @@
     "karma-phantomjs-launcher": "1.0.0",
     "karma-sourcemap-loader": "0.3.7",
     "karma-webpack": "1.7.0",
-    "phantomjs-prebuilt": "2.1.4",
+    "phantomjs-prebuilt": "2.1.5",
     "tsd": "0.6.5",
     "tslint": "3.5.0",
     "typescript": "1.8.7",
