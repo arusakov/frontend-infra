@@ -51,7 +51,7 @@
     "gulp-tslint": "4.3.3",
     "gutil": "1.6.4",
     "isparta-loader": "2.0.0",
-    "istanbul": "0.4.2",
+    "istanbul": "0.4.5",
     "jasmine-core": "2.4.1",
     "karma": "0.13.22",
     "karma-coverage": "0.5.3",
