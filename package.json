@@ -48,7 +48,7 @@
     "gulp-replace": "0.5.4",
     "gulp-sass": "2.2.0",
     "gulp-sourcemaps": "1.6.0",
-    "gulp-tslint": "4.3.3",
+    "gulp-tslint": "6.1.1",
     "gutil": "1.6.4",
     "isparta-loader": "2.0.0",
     "istanbul": "0.4.2",
