@@ -30,7 +30,7 @@
   "homepage": "https://github.com/arusakov/frontend-infra#readme",
   "dependencies": {
     "bootstrap-sass": "3.3.6",
-    "react": "0.14.7",
+    "react": "15.5.0",
     "react-dom": "0.14.7"
   },
   "devDependencies": {
