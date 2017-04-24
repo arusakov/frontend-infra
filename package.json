@@ -52,7 +52,7 @@
     "gutil": "1.6.4",
     "isparta-loader": "2.0.0",
     "istanbul": "0.4.2",
-    "jasmine-core": "2.4.1",
+    "jasmine-core": "2.6.0",
     "karma": "0.13.22",
     "karma-coverage": "0.5.3",
     "karma-jasmine": "0.3.8",
