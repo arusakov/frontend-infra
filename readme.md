@@ -1,5 +1,7 @@
 Frontend infrastructure [![Build Status](https://travis-ci.org/arusakov/frontend-infra.svg?branch=master)](https://travis-ci.org/arusakov/frontend-infra)
 -------------------------------------------------------
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/arusakov/frontend-infra.svg)](https://greenkeeper.io/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Babel](https://babeljs.io/)
 * [Sass](http://sass-lang.com/)
